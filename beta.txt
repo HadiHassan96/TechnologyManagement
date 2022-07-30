@@ -1,1 +1,5 @@
+<<<<< HEAD
 hadi Haha  lolo
+=======
+hadi Haha 
+>>>>>>> 7d6e681 (Commit Done from Repo A)
